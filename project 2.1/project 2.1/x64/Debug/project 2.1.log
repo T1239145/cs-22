@@ -1,0 +1,5 @@
+﻿  deck.cpp
+C:\Users\toshi\Desktop\cs22\project 2\Assignment2 (1)\deck.cpp(21,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\toshi\Desktop\cs22\project 2\Assignment2 (1)\deck.cpp(100,30): warning C4267: 'return': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\toshi\Desktop\cs22\project 2\Assignment2 (1)\deck.cpp(105,28): warning C4267: 'return': conversion from 'size_t' to 'const int', possible loss of data
+  project 2.1.vcxproj -> C:\Users\toshi\Desktop\cs22\project 2.1\x64\Debug\project 2.1.exe
