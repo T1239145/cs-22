@@ -1,0 +1,15 @@
+1)Are the node addresses different or the same between the two different runs of the program?
+
+Not all but some of the node addresses are different 
+
+2)If so, how do you explain why they are the same or different? 
+
+memory allocation
+
+3)Are the node addresses in the linked lists adjacent to each other in memory in each of the files or not?
+
+no
+
+4)Why would the addresses be adjacent if they are, or why would they not be adjacent if they are not?
+
+adjacent memory addressed would have a difference of 1 hexadecimal 

@@ -1,27 +1,27 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\toshi\\Desktop\\cs22\\project 2.1\\",
+  "WorkspaceRootPath": "C:\\Users\\toshi\\Desktop\\computer science\\cs22\\project 2.1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{475A98D6-1367-4E9B-A3E8-5EAEEA303C99}|project 2.1.vcxproj|C:\\Users\\toshi\\Desktop\\cs22\\project 2\\Assignment2 (1)\\deck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\toshi\\Desktop\\cs22\\project 2\\Assignment2 (1)\\card.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{475A98D6-1367-4E9B-A3E8-5EAEEA303C99}|project 2.1.vcxproj|C:\\Users\\toshi\\Desktop\\cs22\\project 2\\Assignment2 (1)\\hand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\toshi\\Desktop\\cs22\\project 2\\Assignment2 (1)\\card.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{475A98D6-1367-4E9B-A3E8-5EAEEA303C99}|project 2.1.vcxproj|C:\\Users\\toshi\\Desktop\\cs22\\project 2\\Assignment2 (1)\\card.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\toshi\\Desktop\\cs22\\project 2\\Assignment2 (1)\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{475A98D6-1367-4E9B-A3E8-5EAEEA303C99}|project 2.1.vcxproj|C:\\Users\\toshi\\Desktop\\cs22\\project 2\\Assignment2 (1)\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\toshi\\Desktop\\cs22\\project 2\\Assignment2 (1)\\hand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{475A98D6-1367-4E9B-A3E8-5EAEEA303C99}|project 2.1.vcxproj|C:\\Users\\toshi\\Desktop\\cs22\\project 2\\Assignment2 (1)\\card.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\toshi\\Desktop\\cs22\\project 2\\Assignment2 (1)\\deck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{475A98D6-1367-4E9B-A3E8-5EAEEA303C99}|project 2.1.vcxproj|C:\\Users\\toshi\\Desktop\\cs22\\project 2\\Assignment2 (1)\\deck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\toshi\\Desktop\\cs22\\project 2\\Assignment2 (1)\\hand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{475A98D6-1367-4E9B-A3E8-5EAEEA303C99}|project 2.1.vcxproj|C:\\Users\\toshi\\Desktop\\cs22\\project 2\\Assignment2 (1)\\hand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\toshi\\Desktop\\cs22\\project 2\\Assignment2 (1)\\deck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,90 +31,83 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\toshi\\Desktop\\cs22\\project 2\\Assignment2 (1)\\main.cpp",
-              "RelativeDocumentMoniker": "..\\project 2\\Assignment2 (1)\\main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\cs22\\project 2\\Assignment2 (1)\\main.cpp",
               "ToolTip": "C:\\Users\\toshi\\Desktop\\cs22\\project 2\\Assignment2 (1)\\main.cpp",
-              "RelativeToolTip": "..\\project 2\\Assignment2 (1)\\main.cpp",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAABMAAAAAAAAA",
+              "RelativeToolTip": "..\\..\\..\\cs22\\project 2\\Assignment2 (1)\\main.cpp",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-24T20:32:20.202Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "hand.cpp",
               "DocumentMoniker": "C:\\Users\\toshi\\Desktop\\cs22\\project 2\\Assignment2 (1)\\hand.cpp",
-              "RelativeDocumentMoniker": "..\\project 2\\Assignment2 (1)\\hand.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\cs22\\project 2\\Assignment2 (1)\\hand.cpp",
               "ToolTip": "C:\\Users\\toshi\\Desktop\\cs22\\project 2\\Assignment2 (1)\\hand.cpp",
-              "RelativeToolTip": "..\\project 2\\Assignment2 (1)\\hand.cpp",
-              "ViewState": "AQIAAEgAAAAAAAAAAAAIwGwAAAABAAAA",
+              "RelativeToolTip": "..\\..\\..\\cs22\\project 2\\Assignment2 (1)\\hand.cpp",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-08T21:04:00.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T21:04:00.94Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "card.cpp",
               "DocumentMoniker": "C:\\Users\\toshi\\Desktop\\cs22\\project 2\\Assignment2 (1)\\card.cpp",
-              "RelativeDocumentMoniker": "..\\project 2\\Assignment2 (1)\\card.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\cs22\\project 2\\Assignment2 (1)\\card.cpp",
               "ToolTip": "C:\\Users\\toshi\\Desktop\\cs22\\project 2\\Assignment2 (1)\\card.cpp",
-              "RelativeToolTip": "..\\project 2\\Assignment2 (1)\\card.cpp",
-              "ViewState": "AQIAADgAAAAAAAAAAAAIwFkAAAABAAAA",
+              "RelativeToolTip": "..\\..\\..\\cs22\\project 2\\Assignment2 (1)\\card.cpp",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-24T20:38:02.453Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "card.h",
               "DocumentMoniker": "C:\\Users\\toshi\\Desktop\\cs22\\project 2\\Assignment2 (1)\\card.h",
-              "RelativeDocumentMoniker": "..\\project 2\\Assignment2 (1)\\card.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\cs22\\project 2\\Assignment2 (1)\\card.h",
               "ToolTip": "C:\\Users\\toshi\\Desktop\\cs22\\project 2\\Assignment2 (1)\\card.h",
-              "RelativeToolTip": "..\\project 2\\Assignment2 (1)\\card.h",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAAAHAAAA",
+              "RelativeToolTip": "..\\..\\..\\cs22\\project 2\\Assignment2 (1)\\card.h",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-03-24T20:32:07.03Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "deck.cpp",
               "DocumentMoniker": "C:\\Users\\toshi\\Desktop\\cs22\\project 2\\Assignment2 (1)\\deck.cpp",
-              "RelativeDocumentMoniker": "..\\project 2\\Assignment2 (1)\\deck.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\cs22\\project 2\\Assignment2 (1)\\deck.cpp",
               "ToolTip": "C:\\Users\\toshi\\Desktop\\cs22\\project 2\\Assignment2 (1)\\deck.cpp",
-              "RelativeToolTip": "..\\project 2\\Assignment2 (1)\\deck.cpp",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAGMAAAAgAAAA",
+              "RelativeToolTip": "..\\..\\..\\cs22\\project 2\\Assignment2 (1)\\deck.cpp",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-24T20:32:18.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-24T20:32:18.468Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "hand.h",
               "DocumentMoniker": "C:\\Users\\toshi\\Desktop\\cs22\\project 2\\Assignment2 (1)\\hand.h",
-              "RelativeDocumentMoniker": "..\\project 2\\Assignment2 (1)\\hand.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\cs22\\project 2\\Assignment2 (1)\\hand.h",
               "ToolTip": "C:\\Users\\toshi\\Desktop\\cs22\\project 2\\Assignment2 (1)\\hand.h",
-              "RelativeToolTip": "..\\project 2\\Assignment2 (1)\\hand.h",
+              "RelativeToolTip": "..\\..\\..\\cs22\\project 2\\Assignment2 (1)\\hand.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-03-24T20:32:17.029Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "deck.h",
               "DocumentMoniker": "C:\\Users\\toshi\\Desktop\\cs22\\project 2\\Assignment2 (1)\\deck.h",
-              "RelativeDocumentMoniker": "..\\project 2\\Assignment2 (1)\\deck.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\cs22\\project 2\\Assignment2 (1)\\deck.h",
               "ToolTip": "C:\\Users\\toshi\\Desktop\\cs22\\project 2\\Assignment2 (1)\\deck.h",
-              "RelativeToolTip": "..\\project 2\\Assignment2 (1)\\deck.h",
+              "RelativeToolTip": "..\\..\\..\\cs22\\project 2\\Assignment2 (1)\\deck.h",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-03-24T20:32:15.44Z"

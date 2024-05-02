@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\toshi\\Desktop\\computer science\\cs22\\template\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\toshi\\Desktop\\computer science\\cs22\\project  5\\Sourcecodetemplate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B91B3D5-A899-4B39-99BA-C2A2565937FB}|template.vcxproj|C:\\Users\\toshi\\Desktop\\computer science\\cs22\\template\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5B91B3D5-A899-4B39-99BA-C2A2565937FB}|template.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sourcecodetemplate.cpp",
+              "DocumentMoniker": "C:\\Users\\toshi\\Desktop\\computer science\\cs22\\project  5\\Sourcecodetemplate.cpp",
+              "RelativeDocumentMoniker": "..\\project  5\\Sourcecodetemplate.cpp",
+              "ToolTip": "C:\\Users\\toshi\\Desktop\\computer science\\cs22\\project  5\\Sourcecodetemplate.cpp",
+              "RelativeToolTip": "..\\project  5\\Sourcecodetemplate.cpp",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-26T07:10:20.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\toshi\\Desktop\\computer science\\cs22\\template\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "C:\\Users\\toshi\\Desktop\\computer science\\cs22\\template\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAHUAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-26T06:58:24.636Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
